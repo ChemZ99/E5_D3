@@ -1,6 +1,6 @@
-package Exercises.E5_D2;
+package Exercises.E5_D3;
 
-import Exercises.E5_D2.entities.*;
+import Exercises.E5_D3.entities.*;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package Exercises.E5_D2.entities;
+package Exercises.E5_D3.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
